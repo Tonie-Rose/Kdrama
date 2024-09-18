@@ -1,0 +1,48 @@
+body {
+    background-color: rgba(250, 235, 215, 0.146);
+    margin: 0;
+}
+.title {
+    text-align: center;
+    font-size: 80px;
+    font-style: italic;
+    letter-spacing: 5px;
+    color: rgba(165, 42, 42, 0.426);
+}
+.ngaran {
+    text-align: center;
+    color: rgba(10, 16, 53, 0.838);
+    font-size: 30px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.black {
+    height: 275px;
+    position: relative;
+}
+.text {
+    text-align: center;
+    font-size: 15px;
+    font-family: 'Courier New', Courier, monospace;
+    border-style: solid;
+}
+.itom {
+    height: 200px;
+    padding-left: 550px;
+}
+.white {
+    height: 275px;
+    position: relative;
+}
+.hmp {
+    height: 275px;
+    position: relative;
+}
+.brown {
+    height: 570px;
+    position: absolute;
+    opacity: 90%;
+}
+.bruh {
+    height: 275px;
+    position: relative;
+}
